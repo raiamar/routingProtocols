@@ -2,7 +2,7 @@
 ![](img/1.png)
 
 ### CLI code for RIP
-> #en
+- #en
 - #config t
 - #interface serial 0/1/0
 - #ip address 10.0.0.1 255.0.0.0
@@ -20,7 +20,7 @@
 ![](img/3.png)
 
 ### CLI code for DHCP pool
-> #en
+- #en
 - #config t
 - #ip dhcp pool nameA
 - #network 192.168.3.0 255.255.255.0
